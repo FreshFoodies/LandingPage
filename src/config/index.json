@@ -44,14 +44,14 @@
     "title": "Keep track of all your food and groceries",
     "items": [
       {
-        "title": "A plug n play template",
+        "title": "Join a shared fridge",
         "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "img": "/assets/images/shared.jpg"
       },
       {
-        "title": "Make it your own!",
+        "title": "Track your personal food items",
         "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "img": "/assets/images/personal.jpg"
       }
     ]
   },
