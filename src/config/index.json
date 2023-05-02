@@ -52,6 +52,11 @@
         "title": "Join a shared fridge",
         "description": "Ever struggle with managing groceries in a shared household? With LookingGlass, you and your roommates can join a shared household fridge! Once everyone has joined, you can offer up your personal food items to the shared inventory and claim items as desired.",
         "img": "/assets/images/shared.jpg"
+      },
+      {
+        "title": "Add your food items",
+        "description": "Use our built-in receipt scanner or manually enter foods to your personal inventory!",
+        "img": "/assets/images/manual.jpg"
       }
     ]
   },
@@ -151,8 +156,8 @@
     ],
     "socialMedia": {
       "github": "https://github.com/FreshFoodies",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "twitter": "#",
+      "linkedin": "#"
     }
   }
 }
