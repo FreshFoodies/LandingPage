@@ -5,16 +5,16 @@
   },
   "navigation": [
     {
-      "name": "Demo",
+      "name": "Features",
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Technologies",
       "href": "features"
     },
 
     {
-      "name": "Pricing",
+      "name": "Users",
       "href": "pricing"
     },
     {
@@ -29,8 +29,8 @@
   "mainHero": {
     "title": "Welcome to",
     "subtitle": "LookingGlass",
-    "description": "Talk about app in this area",
-    "img": "/assets/images/happyTeam.jpeg",
+    "description": "LookingGlass gives users a look into their own fridge, while also encouraging sustainable practices to reduce food waste. Designed for young adults who are living in shared housing, the mobile app aims to help those living in shared households reduce food waste and over-purchasing.",
+    "img": "/assets/images/tile.png",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
@@ -61,29 +61,29 @@
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Technologies and Frameworks",
+    "subtitle": "Development Details",
+    "description": "Our goal was to create a mobile app that anyone can use on any type of smartphone. To accomplish this, we used a combination of different technologies to support an agnostic app design.",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "name": "React Native",
+        "description": "React Native allowed us to leverage our React knowledge to create a platform-agnostic mobile app that can run on both iOS and Android without needing separate builds. Our entire frontend is built in React Native.",
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "name": "MongoDB",
+        "description": "We used MongoDB to host all user/fridge data. The JSON-like structure of MongoDB allowed us to easily change our schemas whenever we wanted to add/remove features.",
+        "icon": "/assets/images/mongodb-icon.svg"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
+        "name": "Flask",
+        "description": "Flask is a Python web framework that we used for our backend and database integration. Flask and MongoDB can be integrated with ease, and we decided to host our Flask backend API on Heroku to ensure separation between the frontend and backend.",
+        "icon": "/assets/images/flask-icon.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Expo Go",
+        "description": "Expo Go is an alternative to the iOS App Store and Android Play Store that allows users to download our app on either platform. Expo Go will be hosting our app in its public library, meaning users will need to first download the Expo Go app to download LookingGlass itself.",
+        "icon": "/assets/images/expo-icon.svg"
       }
     ]
   },
