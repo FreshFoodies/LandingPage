@@ -14,7 +14,7 @@
     },
 
     {
-      "name": "Users",
+      "name": "Benefits",
       "href": "pricing"
     },
     {
@@ -24,7 +24,7 @@
   ],
   "callToAction": {
     "text": "Get started",
-    "href": "#"
+    "href": "https://github.com/FreshFoodies/FrontendFreshFoodies"
   },
   "mainHero": {
     "title": "Welcome to",
@@ -33,11 +33,11 @@
     "img": "/assets/images/tile.png",
     "primaryAction": {
       "text": "Get started",
-      "href": "#"
+      "href": "https://github.com/FreshFoodies/FrontendFreshFoodies"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:EMAILADDRESS.COM?subject=I like react landing page!"
+      "text": "Source Code",
+      "href": "https://github.com/FreshFoodies"
     }
   },
   "product": {
@@ -88,40 +88,40 @@
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Benefits",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
+        "name": "Personal Fridge",
+        "price": "",
+        "priceDetails": "",
         "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
+          "Track your groceries",
+          "Filter/sort by category and location",
+          "Use receipt scanner after buying groceries",
+          "Add/remove foods as needed"
         ]
       },
       {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
+        "name": "Shared Fridge",
+        "price": "",
+        "priceDetails": "",
 
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
+          "Offer up your foods to the shared fridge",
+          "Real time updates",
+          "Claim foods from the shared pool",
+          "Unlimited number of users per fridge"
         ]
       },
       {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
+        "name": "Food Data",
+        "price": "",
+        "priceDetails": "",
         "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
+          "Receive expiration date reminders",
+          "Remove specific quantities of foods",
+          "Categorize food items with multiple parameters",
+          "Options for receipt scanning or manual entry"
         ]
       }
     ]
