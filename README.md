@@ -9,6 +9,10 @@
 
 [Osbert Lee]()
 
+[Stephanie Zhang]()
+
+[Jackie Dai]()
+
 
 ### Make it your own
 

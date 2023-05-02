@@ -29,7 +29,7 @@
   "mainHero": {
     "title": "Welcome to",
     "subtitle": "LookingGlass",
-    "description": "Talk about our app in this area",
+    "description": "Talk about app in this area",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Get started",
@@ -37,21 +37,21 @@
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:EMAILADDRESS.COM?subject=I like react landing page!"
     }
   },
   "product": {
     "title": "Keep track of all your food and groceries",
     "items": [
       {
-        "title": "Join a shared fridge",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/shared.jpg"
+        "title": "Track your personal food items",
+        "description": "Add groceries to your food inventory and receive reminders when they're close to expiration.",
+        "img": "/assets/images/personal.jpg"
       },
       {
-        "title": "Track your personal food items",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/personal.jpg"
+        "title": "Join a shared fridge",
+        "description": "Ever struggle with managing groceries in a shared household? With LookingGlass, you and your roommates can join a shared household fridge! Once everyone has joined, you can offer up your personal food items to the shared inventory and claim items as desired.",
+        "img": "/assets/images/shared.jpg"
       }
     ]
   },
