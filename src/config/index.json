@@ -14,7 +14,7 @@
     },
 
     {
-      "name": "Benefits",
+      "name": "Demo",
       "href": "pricing"
     },
     {
@@ -45,17 +45,17 @@
     "items": [
       {
         "title": "Track your personal food items",
-        "description": "Add groceries to your food inventory and receive reminders when they're close to expiration.",
+        "description": "Add groceries to your food inventory and receive reminders when they're close to expiration. Categorize foods by type, location, expiration date, etc.",
         "img": "/assets/images/personal.jpg"
       },
       {
-        "title": "Join a shared fridge",
+        "title": "Offer up and claim shared food items with your roommates",
         "description": "Ever struggle with managing groceries in a shared household? With LookingGlass, you and your roommates can join a shared household fridge! Once everyone has joined, you can offer up your personal food items to the shared inventory and claim items as desired.",
         "img": "/assets/images/shared.jpg"
       },
       {
-        "title": "Add your food items",
-        "description": "Use our built-in receipt scanner or manually enter foods to your personal inventory!",
+        "title": "Use our receipt scanner to save time adding groceries",
+        "description": "Use our built-in receipt scanner or manually enter foods to your personal inventory! Upon scanning your receipt, you'll be able to edit the scanned list before adding items to your fridge.",
         "img": "/assets/images/manual.jpg"
       }
     ]
