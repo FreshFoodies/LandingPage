@@ -1,7 +1,8 @@
 {
   "company": {
     "name": "LookingGlass",
-    "logo": "/assets/images/logo.jpg"
+    "logo": "/assets/images/logo.jpg",
+    "ischool": "/assets/images/LogoPack_2018/SecondaryLogo/Web/JPG/iSchoolSecondary_RGB_Black.jpg"
   },
   "navigation": [
     {
@@ -88,70 +89,34 @@
     ]
   },
   "pricing": {
-    "title": "Demo",
-    "items": [
-      {
-        "name": "Personal Fridge",
-        "price": "",
-        "priceDetails": "",
-        "features": [
-          "Track your groceries",
-          "Filter/sort by category and location",
-          "Use receipt scanner after buying groceries",
-          "Add/remove foods as needed"
-        ]
-      },
-      {
-        "name": "Shared Fridge",
-        "price": "",
-        "priceDetails": "",
-
-        "features": [
-          "Offer up your foods to the shared fridge",
-          "Real time updates",
-          "Claim foods from the shared pool",
-          "Unlimited number of users per fridge"
-        ]
-      },
-      {
-        "name": "Food Data",
-        "price": "",
-        "priceDetails": "",
-        "features": [
-          "Receive expiration date reminders",
-          "Remove specific quantities of foods",
-          "Categorize food items with multiple parameters",
-          "Options for receipt scanning or manual entry"
-        ]
-      }
-    ]
+    "title": "Demo"
   },
   "about": {
     "sections": [
       {
         "name": "Arjun Srivastava",
         "href": "https://arjunsrivastava.me",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": ""
       },
       {
         "name": "David Lee",
         "href": "https://www.linkedin.com/in/thedavl/",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": ""
       },
       {
         "name": "Osbert Lee",
         "href": "https://www.linkedin.com/in/osblee/",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": ""
       },
       {
         "name": "Stephanie Zhang",
         "href": "https://www.linkedin.com/in/stephaniezhang03/",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": ""
       },
       {
         "name": "Jackie Dai",
         "href": "https://www.linkedin.com/in/jacquelinedai/",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": ""
       }
     ],
     "socialMedia": {

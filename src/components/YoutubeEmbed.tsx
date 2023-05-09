@@ -3,7 +3,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 const YoutubeEmbed = ({ embedId }: { embedId: String }) => (
-  <div className="video-responsive">
+  <div className="video-responsive aspect-video">
     <iframe
       width="relative"
       height="relative"
