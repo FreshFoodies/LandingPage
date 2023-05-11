@@ -23,7 +23,7 @@ const Pricing = () => {
         <div
           className={`flex flex-col sm:flex-row justify-center pt-12 my-12 sm:my-4 `}
         >
-          <YoutubeEmbed embedId="_HFesIkjtaQ" />
+          <YoutubeEmbed embedId="_zIhEfCjfp4" />
         </div>
       </div>
     </section>
